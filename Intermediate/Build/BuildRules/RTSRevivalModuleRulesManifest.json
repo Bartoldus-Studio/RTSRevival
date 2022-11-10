@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Engine\\RTSRevival\\Source\\RTSRevival\\RTSRevival.Build.cs",
+		"D:\\Unreal Engine\\RTSRevival\\Source\\RTSRevival.Target.cs",
+		"D:\\Unreal Engine\\RTSRevival\\Source\\RTSRevivalEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

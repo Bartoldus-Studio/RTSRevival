@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal engine\\rtsrevival\\intermediate\\build\\win64\\unrealeditor\\inc\\rtsrevival\\rtsrevivalgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine\\rtsrevival\\intermediate\\build\\win64\\rtsrevivaleditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal engine\\rtsrevival\\intermediate\\build\\win64\\unrealeditor\\development\\rtsrevival\\definitions.rtsrevival.h",
+            "d:\\unreal engine\\rtsrevival\\source\\rtsrevival\\rtsrevivalgamemodebase.h",
+            "e:\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "e:\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "e:\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "e:\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\unreal engine\\rtsrevival\\intermediate\\build\\win64\\unrealeditor\\inc\\rtsrevival\\rtsrevivalgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
