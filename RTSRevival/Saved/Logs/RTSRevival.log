@@ -713,3 +713,128 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.10-15.29.12:701][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2022.11.10-15.29.12:769][  0]LogAutomationController: Ignoring very large delta of 16787237.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2022.11.10-15.29.22:005][ 28]LogSlate: Took 0.018916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.10-15.30.11:993][518]LogSlate: Took 0.020249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.10-15.30.28:821][661]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.10-15.30.28:890][661]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.10-15.30.28:910][663]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.10-15.30.30:770][772]LogContentBrowser: Attempting asset rename: NewFolder -> MainMenu
+[2022.11.10-15.30.30:770][772]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.10-15.30.41:324][821]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.10-15.30.41:335][821]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.10-15.30.41:343][822]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.10-15.30.42:927][914]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.11.10-15.30.42:927][914]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.10-15.30.46:680][162]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.11.10-15.30.46:690][162]LogContentBrowser: Creating deferred item: NewWorld
+[2022.11.10-15.30.46:730][164]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2022.11.10-15.30.49:717][338]LogContentBrowser: Attempting asset rename: NewWorld -> TestMap
+[2022.11.10-15.30.49:738][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-15.30.49:739][338]LogContentBrowser: End creating deferred item NewWorld
+[2022.11.10-15.30.54:366][669]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.10-15.30.54:439][669]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.10-15.30.54:451][670]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.10-15.31.00:798][ 40]LogContentBrowser: Attempting asset rename: NewFolder -> BlueprintClasses
+[2022.11.10-15.31.00:807][ 40]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.10-15.31.02:740][153]LogDerivedDataCache: C:/Users/Justus L/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.158 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.10-15.31.03:912][273]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.10-15.31.03:925][273]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.10-15.31.03:957][275]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.10-15.31.05:988][393]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2022.11.10-15.31.05:988][393]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.10-15.31.11:595][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.10-15.31.13:916][717]LogSlate: Window 'Save Content' being destroyed
+[2022.11.10-15.31.13:968][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="D:/UE5Projects/RTSRevival/RTSRevival/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.10-15.31.13:977][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.10-15.31.13:981][717]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.003698 seconds
+[2022.11.10-15.31.13:983][717]LogSavePackage: Moving output files for package: /Game/Maps/TestMap
+[2022.11.10-15.31.13:983][717]LogSavePackage: Moving 'D:/UE5Projects/RTSRevival/RTSRevival/Saved/TestMap50AF1A684D3B81CA39F9F7848188BA12.tmp' to 'D:/UE5Projects/RTSRevival/RTSRevival/Content/Maps/TestMap.umap'
+[2022.11.10-15.31.14:011][717]LogFileHelpers: Saving map 'TestMap' took 0.038
+[2022.11.10-15.31.14:023][717]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestMap.TestMap
+[2022.11.10-15.31.14:038][717]Cmd: MAP LOAD FILE="D:/UE5Projects/RTSRevival/RTSRevival/Content/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-15.31.14:039][717]LightingResults: New page: Lighting Build
+[2022.11.10-15.31.14:039][717]LoadErrors: New page: Loading map: TestMap.umap
+[2022.11.10-15.31.14:066][717]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.31.14:066][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.31.14:067][717]MapCheck: New page: Map Check
+[2022.11.10-15.31.14:067][717]LightingResults: New page: Lighting Build
+[2022.11.10-15.31.14:075][717]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-15.31.14:089][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.10-15.31.14:101][717]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-15.31.14:101][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-15.31.14:109][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.10-15.31.14:117][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.10-15.31.14:118][717]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2022.11.10-15.31.14:118][717]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-15.31.14:118][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-15.31.14:119][717]LogAIModule: Creating AISystem for world TestMap
+[2022.11.10-15.31.14:138][717]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-15.31.14:146][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.10-15.31.14:171][717]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-15.31.14:171][717]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,07ms to complete.
+[2022.11.10-15.31.14:171][717]LogFileHelpers: Loading map 'TestMap' took 0.132
+[2022.11.10-15.31.14:175][717]AssetCheck: New page: Asset Save: TestMap
+[2022.11.10-15.31.14:175][717]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2022.11.10-15.31.14:201][717]LogAutomationController: Ignoring very large delta of 2.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.11.10-15.31.28:538][367]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.11.10-15.31.28:538][367]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.11.10-15.31.28:567][367]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/TestMap.TestMap:PersistentLevel.DirectionalLight_0
+[2022.11.10-15.31.28:567][367]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/TestMap.TestMap:PersistentLevel.DirectionalLight_0
+[2022.11.10-15.31.34:032][982]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.11.10-15.31.34:032][982]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2022.11.10-15.31.34:033][982]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/TestMap.TestMap:PersistentLevel.SkyLight_0
+[2022.11.10-15.31.34:033][982]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/Maps/TestMap.TestMap:PersistentLevel.SkyLight_0
+[2022.11.10-15.31.39:102][548]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2022.11.10-15.31.39:102][548]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2022.11.10-15.31.46:709][378]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2022.11.10-15.31.46:709][378]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.RectLight
+[2022.11.10-15.31.53:430][108]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.10-15.31.53:430][108]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.11.10-15.31.53:430][108]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_0
+[2022.11.10-15.31.53:469][108]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Maps/TestMap.TestMap:PersistentLevel.StaticMeshActor_0
+[2022.11.10-15.32.27:265][621]Cmd: DELETE
+[2022.11.10-15.32.27:265][621]Cmd: ACTOR DELETE
+[2022.11.10-15.32.27:364][621]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.11.10-15.32.27:382][621]LogEditorActor: Deleted Actor: PointLight
+[2022.11.10-15.32.27:382][621]LogEditorActor: Deleted Actor: RectLight
+[2022.11.10-15.32.27:382][621]LogEditorActor: Deleted Actor: SkyLight
+[2022.11.10-15.32.27:397][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.10-15.32.27:399][621]LogEditorActor: Deleted 4 Actors (0.067 secs)
+[2022.11.10-15.32.29:609][862]Cmd: DELETE
+[2022.11.10-15.32.29:609][862]Cmd: ACTOR DELETE
+[2022.11.10-15.32.29:609][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.10-15.32.29:616][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.11.10-15.32.29:617][862]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.11.10-15.32.44:207][560]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2022.11.10-15.32.44:207][560]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2022.11.10-15.32.44:208][560]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/TestMap.TestMap:PersistentLevel.SkyAtmosphere_0
+[2022.11.10-15.32.44:208][560]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/Maps/TestMap.TestMap:PersistentLevel.SkyAtmosphere_0
+[2022.11.10-15.32.48:172][ 19]Cmd: DELETE
+[2022.11.10-15.32.48:172][ 19]Cmd: ACTOR DELETE
+[2022.11.10-15.32.48:173][ 19]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2022.11.10-15.32.48:182][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.10-15.32.48:183][ 19]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.11.10-15.32.54:843][770]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2022.11.10-15.32.54:843][770]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2022.11.10-15.32.54:844][770]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Maps/TestMap.TestMap:PersistentLevel.VolumetricCloud_0
+[2022.11.10-15.32.54:844][770]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/Maps/TestMap.TestMap:PersistentLevel.VolumetricCloud_0
+[2022.11.10-15.32.56:081][906]Cmd: DELETE
+[2022.11.10-15.32.56:081][906]Cmd: ACTOR DELETE
+[2022.11.10-15.32.56:082][906]LogEditorActor: Deleted Actor: VolumetricCloud
+[2022.11.10-15.32.56:096][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.10-15.32.56:097][906]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.11.10-15.33.01:285][515]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2022.11.10-15.33.01:285][515]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2022.11.10-15.33.06:348][ 80]Cmd: DELETE
+[2022.11.10-15.33.06:348][ 80]Cmd: ACTOR DELETE
+[2022.11.10-15.33.06:349][ 80]LogEditorActor: Deleted Actor: PointLight
+[2022.11.10-15.33.06:358][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.10-15.33.06:360][ 80]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.11.10-15.33.15:218][103]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.11.10-15.33.15:218][103]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2022.11.10-15.33.15:219][103]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/TestMap.TestMap:PersistentLevel.DirectionalLight_1
+[2022.11.10-15.33.15:219][103]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/Maps/TestMap.TestMap:PersistentLevel.DirectionalLight_1
+[2022.11.10-15.33.19:849][640]Cmd: DELETE
+[2022.11.10-15.33.19:849][640]Cmd: ACTOR DELETE
+[2022.11.10-15.33.19:850][640]LogEditorActor: Deleted Actor: DirectionalLight
+[2022.11.10-15.33.19:859][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.10-15.33.19:861][640]LogEditorActor: Deleted 1 Actors (0.011 secs)
