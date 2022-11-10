@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RTSRevival",
+			"Path": "D:\\Unreal Engine\\RTSRevival\\Source\\RTSRevival.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RTSRevivalEditor",
+			"Path": "D:\\Unreal Engine\\RTSRevival\\Source\\RTSRevivalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
