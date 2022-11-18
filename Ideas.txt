@@ -1,0 +1,30 @@
+Gebäude:
+	Nahrung:
+		Bauernhof: zentrales Gebäude, welches Tiergehege und Felder in Umgebung braucht, um zu funktionieren (ähnlich wie bei Manor Lords)
+		Feld: Bauernhof produziert auf Feld angebautes Getreide (Weizen oder so)
+		4 unterschiedliche Tiergehege: Huhn, Schwein, Schaf, Kuh 
+		Huhn: Bauernhof produziert Eier, Metzger weniger Fleisch
+		Schwein: Bauernhof hat keine Effekte, Metzger mehr Fleisch
+		Schaf: Bauernhof produziert Wolle, Metzger mittelmäßig Fleisch
+		Kuh-Bonus: Bauernhof produziert Milch, Metzger produziert mehr Fleisch und zusätzlich Leder
+		=> fehlende Idee zur Beschaffung der Tiere, evtl später durch Händler, wenn Geldsystem und Wirtschaft implementiert ist
+			=> für erste Versionen evtl durch Errungenschaften
+		Bäckerei fehlt noch
+	Ressourcen:
+		Steinbruch
+		Metallmine (simpel halten)
+	Produktion:
+		Werkzeugschmied (Werkzeuge haben Effekt auf alle anderen Produktionsgebäude)
+		Waffenschmied (für später)
+
+- Bausystem erweitern, sodass Kollisionen mit anderen Gebäuden erkannt werden
+- simples Zeitsystem implementieren, sodass ein Gameloop existiert
+- Gebäude sollten für den ersten Milestone nur in bestimmten Zeitabständen Güter produzieren, ohne NPCs, sodass der Spieler gezwungen ist die Siedlung zu erweitern 
+	(eine Holzfällerhütte kann 0,5 Holzhacker versorgen oder so)
+
+InGameUI:
+	- wichtige Ressourcen oben in Leiste anzeigen und Menü zum ausklappen mit allen Ressourcen einbauen (damit das Blickfeld nicht voll mit UIs ist)
+	- KEINE minimap
+	- Überlegung zum Baumenü und jeweiligen Unterbringung der Gebäude machen
+	- Steuerung der Zeit oben rechts einbauen
+
