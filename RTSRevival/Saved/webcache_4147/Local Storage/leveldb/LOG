@@ -1,3 +1,6 @@
-2022/11/17-23:36:57.564 3734 Reusing MANIFEST D:/UE5Projects/RTSRevival/RTSRevival/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
-2022/11/17-23:36:57.564 3734 Recovering log #3
-2022/11/17-23:36:57.594 3734 Reusing old log D:/UE5Projects/RTSRevival/RTSRevival/Saved/webcache_4147\Local Storage\leveldb/000003.log 
+2022/11/18-18:59:02.363 148c Reusing MANIFEST D:/UE5Projects/RTSRevival/RTSRevival/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2022/11/18-18:59:02.376 148c Recovering log #3
+2022/11/18-18:59:02.376 148c Reusing old log D:/UE5Projects/RTSRevival/RTSRevival/Saved/webcache_4147\Local Storage\leveldb/000003.log 
+2022/11/18-20:17:57.202 31b0 Level-0 table #5: started
+2022/11/18-20:17:57.249 31b0 Level-0 table #5: 12839 bytes OK
+2022/11/18-20:17:57.268 31b0 Delete type=0 #3
