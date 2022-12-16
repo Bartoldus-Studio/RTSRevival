@@ -94,3 +94,24 @@
 [1215/225617.592:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [1215/225617.847:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [1215/225617.847:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1216/125358.937:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 3
+[1216/125359.482:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 5
+[1216/125359.492:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 7
+[1216/125359.765:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 9
+[1216/125359.888:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 11
+[1216/125400.043:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 13
+[1216/125400.043:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 15
+[1216/125400.043:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 17
+[1216/125400.043:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 23
+[1216/125400.253:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 19
+[1216/125400.260:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 25
+[1216/125400.272:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 21
+[1216/125400.274:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 27
+[1216/125400.274:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 31
+[1216/125400.274:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 29
+[1216/130306.003:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1216/130306.015:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1216/130306.043:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1216/130306.043:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1216/130306.261:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 15
+[1216/130306.295:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 17
